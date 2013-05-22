@@ -1,0 +1,1 @@
+This is a small android application which sends location data from an android device to JCoAP server througha background service and tracks all other devices through their location data from that server. Currently it only tracks user's own device.
